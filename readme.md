@@ -2,7 +2,7 @@
 
 [open-color](https://github.com/yeun/open-color)
 
->As a frontend development mainly on react and react-native, i offen use css-in-javascript instead import css file, 
+>As a frontend development mainly on react and react-native, i offen use css-in-javascript instead import css file,
 which i think is more easy and flexible. So i just wrapper [open-color](https://github.com/yeun/open-color) in javascript.
 
 ### Usage
@@ -10,6 +10,8 @@ which i think is more easy and flexible. So i just wrapper [open-color](https://
 Just **oc.gray0**, **oc.red5**...
 
    ```shell
+   npm i open-color-js --save
+
    import oc from 'open-color-js';
 
    console.log(oc.gray0);
