@@ -1,0 +1,16 @@
+{
+  "name": "open-color-js",
+  "version": "0.0.1",
+  "description": "javascript wapper of open color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "open-color",
+    "color",
+    "scheme"
+  ],
+  "author": "Liu Kai",
+  "license": "MIT"
+}
